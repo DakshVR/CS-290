@@ -22,3 +22,10 @@
         - It displays a message with this input control telling the user what they are supposed to enter.
         - When the user clicks the button, the app doesn't submit the form. Instead, the app displays an alert with a message stating what the user had entered.
     3) This page also includes a link to the Home page.
+
+
+
+Commands To Run:
+
+1) npm install
+2) npm start
