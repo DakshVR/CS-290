@@ -29,3 +29,8 @@ Commands To Run:
 
 1) npm install
 2) npm start
+
+NOTE:
+
+version of Node.js required is 14.17.6
+If a later LTS version becomes available, it will work as long as the major version number is still 14.
